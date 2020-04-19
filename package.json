@@ -1,0 +1,23 @@
+{
+  "name": "vuecliplugin",
+  "version": "1.0.0",
+  "description": "> To enforce everyone to use certain practises and also to make life little bit easier",
+  "author": "ManiKanta Koppala <manikanta.koppala7@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikanta-kops/vuecliplugin.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikanta-kops/vuecliplugin/issues"
+  },
+  "homepage": "https://github.com/manikanta-kops/vuecliplugin#readme",
+  "dependencies": {
+    "log-symbols": "^3.0.0",
+    "sync-request": "^6.1.0"
+  }
+}
